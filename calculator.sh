@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-a + b = c
+x=1+2
