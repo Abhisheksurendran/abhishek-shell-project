@@ -20,5 +20,5 @@ echo "Disk Usage: $DISK"
 # Server Uptime
 echo "Uptime: $(uptime -p)"
 
-echo
+echo "Version 2 : Devops learning"
 echo "===== Health Check Complete ====="
